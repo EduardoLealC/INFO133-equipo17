@@ -5,8 +5,8 @@ from datetime import datetime
 # Connect to MariaDB Platform
 try:
     conn = mariadb.connect(
-        user="root",
-        password="Sodimm1107#",
+        user="parteA",
+        password="parteA",
         host="localhost",
         database='Medios_Prensa'
     )

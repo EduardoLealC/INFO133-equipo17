@@ -1,1 +1,0 @@
-Antes de ejecutar los .py tener la base de datos en un Host, despues en cada archivo.py colocar el Host,Usuario,Clave del servidor.
